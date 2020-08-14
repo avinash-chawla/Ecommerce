@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VdaU+OysK73VU0rx1K+6QDIm6t2Np+SxKBMjAa5riOCHiefCKk5i17LjTn4gvZnHP29AOmJf4Z1fA4IOg+FkQg==",
+  "success": true,
+  "projectFilePath": "E:\\Workspace\\Enterprise Application\\skinet\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AVI\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\AVI\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
