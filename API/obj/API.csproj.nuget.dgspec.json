@@ -27,6 +27,9 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
+              "E:\\Workspace\\Enterprise Application\\skinet\\Core\\Core.csproj": {
+                "projectPath": "E:\\Workspace\\Enterprise Application\\skinet\\Core\\Core.csproj"
+              },
               "E:\\Workspace\\Enterprise Application\\skinet\\Infrastructure\\Infrastructure.csproj": {
                 "projectPath": "E:\\Workspace\\Enterprise Application\\skinet\\Infrastructure\\Infrastructure.csproj"
               }
